@@ -1,6 +1,6 @@
 {
   "name": "sweet-dependencies",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Demo app for showcasing sweetr.dev's dependency change summary",
   "main": "index.js",
   "dependencies": {
